@@ -3,7 +3,6 @@
 """
 Created on Fri Feb  5 13:42:59 2021
 
-@author: carllos
 """
 
 def MaiorNumero(lista, x):
