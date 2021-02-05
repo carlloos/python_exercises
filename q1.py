@@ -3,7 +3,6 @@
 """
 Created on Fri Feb  5 12:40:41 2021
 
-@author: carllos
 """
 def comparation():
     for n in list1:
