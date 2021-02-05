@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb  5 14:02:05 2021
-
-@author: carllos
 """
 
 def ModifyTuplesList(lista, y = 0):
