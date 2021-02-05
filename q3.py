@@ -3,7 +3,6 @@
 """
 Created on Fri Feb  5 13:09:48 2021
 
-@author: carllos
 """
 
 def ListConcat(lista):
