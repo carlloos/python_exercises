@@ -3,7 +3,7 @@
 """
 Created on Fri Feb  5 12:53:23 2021
 
-@author: carllos
+
 """
 
 def FirstZeroIndex(lista,j):
