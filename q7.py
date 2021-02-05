@@ -3,7 +3,6 @@
 """
 Created on Fri Feb  5 13:55:51 2021
 
-@author: carllos
 """
 
 dict1 = {'A': 1, 'B': 2, 'C':3}
